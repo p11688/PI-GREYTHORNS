@@ -64,7 +64,7 @@ pytest -v
 bandit -r app
 ```
 
-Os testes usam SQLite em memória e respostas simuladas, então não precisam de MySQL nem de internet.
+Os testes usam SQLite em memória e respostas simuladas, então não precisam de MySQL nem de internet
 
 ## Backup
 
